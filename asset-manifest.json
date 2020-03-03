@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/basic-to-do-app/static/css/main.f1eec35d.chunk.css",
+    "main.js": "/basic-to-do-app/static/js/main.b1e516d8.chunk.js",
+    "main.js.map": "/basic-to-do-app/static/js/main.b1e516d8.chunk.js.map",
+    "runtime-main.js": "/basic-to-do-app/static/js/runtime-main.8f6b67f2.js",
+    "runtime-main.js.map": "/basic-to-do-app/static/js/runtime-main.8f6b67f2.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/basic-to-do-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4b1d97c2.chunk.js": "/basic-to-do-app/static/js/2.4b1d97c2.chunk.js",
+    "static/js/2.4b1d97c2.chunk.js.map": "/basic-to-do-app/static/js/2.4b1d97c2.chunk.js.map",
+    "index.html": "/basic-to-do-app/index.html",
+    "precache-manifest.21fdd779fef849c4cdb79eda019a1319.js": "/basic-to-do-app/precache-manifest.21fdd779fef849c4cdb79eda019a1319.js",
+    "service-worker.js": "/basic-to-do-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/basic-to-do-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.f1eec35d.chunk.css.map": "/basic-to-do-app/static/css/main.f1eec35d.chunk.css.map",
+    "static/js/2.4b1d97c2.chunk.js.LICENSE.txt": "/basic-to-do-app/static/js/2.4b1d97c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f6b67f2.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4b1d97c2.chunk.js",
+    "static/css/main.f1eec35d.chunk.css",
+    "static/js/main.b1e516d8.chunk.js"
+  ]
+}
