@@ -1,0 +1,9 @@
+#submitButton{
+    margin: 5px;
+    background-color: lightblue;
+    border-radius:4px;
+}
+
+#submitButton:hover{
+    background-color: aquamarine;
+}
