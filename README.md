@@ -9,3 +9,4 @@ Users can enter any input into the input field and click the "add" button to vie
 This application is deployed via ```gh-pages``` and can be viewed [here](https://natashang.github.io/basic-react-to-do-app/)
 
 ### Screenshots
+![image](https://user-images.githubusercontent.com/50751197/101302989-de3b3400-37f1-11eb-8240-527a42561518.png)
